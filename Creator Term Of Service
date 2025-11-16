@@ -1,0 +1,69 @@
+Using the bot implies full acceptance of these Terms of Service (TOS).
+
+The bot is intended solely for Discord servers that comply with Discord’s TOS and Developer Policies.
+
+The bot is not intended for users under 13 and follows Discord’s age and safety guidelines.
+
+1. Eligibility
+
+    You must have a valid Discord account and comply with Discord’s TOS.
+
+    Server administrators are responsible for proper bot configuration and granted permissions.
+
+2. Required Permissions To function correctly, the bot requires the following permissions:
+
+    Send Messages
+
+    Read Message History
+
+    Add Reactions
+
+    View Channel
+
+    If the “voice voting” feature is enabled: Move Members
+
+Permissions must be limited to the necessary channels/contexts. The use of these permissions and the related data processing are detailed in our Privacy Policy.
+
+3. Permitted Use
+
+    Use commands in servers; commands in DMs are disabled.
+
+    Moderation functions conform to Discord APIs (e.g., purge of recent messages).
+
+    Social/utility functions must respect policy and API rate limits.
+
+4. Prohibited Conduct You are strictly prohibited from:
+
+    Using the bot as a self-bot or automations that simulate users.
+
+    Mass DM, spam, data scraping outside the server, or collection of sensitive content.
+
+    Attempts to bypass rate limits or Discord permissions.
+
+    Use for harassment, hate speech, illegal activities, or privacy violations.
+
+5. Server Responsibility
+
+    Admins must correctly configure permissions and features (e.g., enabling “voice voting” for specific guilds).
+
+    The server is responsible for informing users about active features and internal policies.
+
+6. Availability and Changes
+
+    The bot is provided “as-is”; continuous availability or error-free operation is not guaranteed.
+
+    Features may change or be retired without notice for technical or compliance reasons.
+
+    These TOS may be updated; continued use of the bot constitutes acceptance of changes.
+
+7. Limitation of Liability
+
+    The bot and its authors are not liable for indirect damages, data loss, service interruptions, or consequences arising from misconfiguration of the server.
+
+    Server admins remain responsible for local policies and bot usage within their context.
+
+8. Governing Law
+
+    Bot usage is subject to Discord’s TOS and applicable laws on data protection and cybersecurity.
+
+    In case of conflict between these TOS and Discord’s TOS, Discord’s TOS prevail.
