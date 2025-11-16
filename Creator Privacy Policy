@@ -1,0 +1,47 @@
+This Privacy Policy describes what data Creator ("the Bot") collects and how it is used and protected.
+
+1. Data Collected The bot is designed to collect only the minimum data necessary for its operation. We do not store full message content. The data collected includes:
+
+    Technical identifiers: user_id, guild_id, channel_id (for command operation and configuration).
+
+    Command telemetry: per-command counts, response times, errors (to optimize performance).
+
+    Message activity: counts, average length, emojis used, recent timestamps (NOT full message content).
+
+    Voice activity: presence in voice channels, session duration, shared channels, participants, total time in voice (purpose: compatibility/bot functionality, e.g., "voice voting").
+
+    Technical logs and errors: for diagnostics and security.
+
+2. Processing Purposes The data collected is used exclusively to:
+
+    Provide bot functionality (moderation, compatibility analysis, utilities).
+
+    Optimize performance, reliability, and security.
+
+    Prevent abuse (cooldowns, daily limits, permission checks).
+
+3. Direct Messages (DMs) The bot adheres to a "No Mass DM" policy. Direct Messages are sent only for contextual operations (e.g., “voice voting” notifications to members involved in the channel). DMs can be limited or disabled at server level if not required for functionality.
+
+4. Data Retention
+
+    Message timestamps are limited to a recent time window; full message content is not stored.
+
+    Voice metadata and compatibility metrics are retained only as long as strictly necessary to provide functionality and internal analysis.
+
+    Technical logs are rotated and stored with size limits.
+
+5. Security
+
+    The bot does not request or store users’ Discord credentials.
+
+    Full message content is not retained; aggregate metrics and minimal metadata are used.
+
+    Logs are managed with rotation and without sensitive content.
+
+6. User Rights
+
+    Access and transparency: you may request what technical data is associated with your account within the server.
+
+    Opt-out of non-essential DMs: you may ask admins to disable non-critical DMs for your server.
+
+    Data deletion: you may request removal of technical data associated with your account (compatibility/activity) where not required for server technical obligations.
